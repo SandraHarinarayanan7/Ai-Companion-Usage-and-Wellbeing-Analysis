@@ -23,25 +23,37 @@ The analysis was performed using Python, Microsoft Excel, Power BI, and Tableau 
 🛠️ TOOLS AND TECHNOLOGIES
 
 • Python — Data cleaning, exploratory data analysis (EDA), and visualization.
+
 • Microsoft Excel — Data analysis and interactive dashboards.
+
 • Power BI — Data transformation, KPI analysis, and dashboard development.
+
 • Tableau — Data visualization and interactive dashboards.
 
 📁 PROJECT FILES
 
 • Dataset — AI Companion Dependency Dataset.
+
 • Python — Jupyter Notebook containing data analysis and visualizations.
+
 • Excel — Excel analysis and dashboard.
+
 • Power BI — Interactive Power BI dashboard.
+
 • Tableau — Interactive Tableau dashboard.
 
 🔍 KEY AREAS OF ANALYSIS
 
 • AI companion usage and screen time.
+
 • Loneliness and emotional attachment patterns.
+
 • Human interaction and social connections.
+
 • Sleep quality and wellbeing indicators.
+
 • Dependency risk distribution.
+
 • Relationships between AI usage and wellbeing measures.
 
 📌 CONCLUSION
