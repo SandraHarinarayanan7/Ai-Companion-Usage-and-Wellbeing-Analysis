@@ -9,10 +9,15 @@ The analysis was performed using Python, Microsoft Excel, Power BI, and Tableau 
 🎯 PROJECT OBJECTIVES
 
 • Analyze daily AI companion usage patterns.
+
 • Explore loneliness and emotional attachment.
+
 • Examine human interaction and social media usage.
+
 • Investigate stress, anxiety, depression, and sleep quality.
+
 • Analyze dependency risk across different user groups.
+
 • Develop interactive dashboards to present key insights.
 
 🛠️ TOOLS AND TECHNOLOGIES
